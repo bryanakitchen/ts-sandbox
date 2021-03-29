@@ -1,0 +1,5 @@
+// initialize state
+const input = document.getElementById('input-box');
+const button = document.createElement('button');
+const section = document.getElementById('section');
+section.append(button);
